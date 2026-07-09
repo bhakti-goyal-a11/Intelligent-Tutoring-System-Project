@@ -1,1 +1,3 @@
 # Intelligent-Tutoring-System-Project
+
+This Intelligent Tutoring System is an automated educational platform designed to analyze student performance metrics—such as grammar proficiency, response times, and engagement levels—using a trained Random Forest model. The project’s objective is to provide personalized learning insights through an integrated AI chatbot and a comprehensive dashboard that tracks student progress over time. It features a full-stack architecture, combining a Flask backend for model inference and data management with a Streamlit interface for an interactive user experience.
